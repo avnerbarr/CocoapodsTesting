@@ -1,0 +1,10 @@
+framework module CocoapodsTesting {
+  umbrella header "CocoapodsTesting.h"
+
+  export *
+  module * { export * }
+}
+
+module CocoapodsTesting.Swift {
+    header "CocoapodsTesting-Swift.h"
+}

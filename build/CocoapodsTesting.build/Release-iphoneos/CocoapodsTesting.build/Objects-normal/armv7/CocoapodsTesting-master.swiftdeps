@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "241565f7059f5a84eeb5feee21626033"
+build_time: [527073474, 722945000]
+inputs:
+  "/tmp/CocoapodsTesting/Classes/SwiftClass1.swift": [527073435, 0]

@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/tmp/CocoapodsTesting/build/Release-iphonesimulator/CocoapodsTesting.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/tmp/CocoapodsTesting/build/CocoapodsTesting.build/Release-iphonesimulator/CocoapodsTesting.build/unextended-module.modulemap',
+    }]
+  }]
+}
