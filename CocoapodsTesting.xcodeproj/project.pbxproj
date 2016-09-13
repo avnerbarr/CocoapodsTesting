@@ -20,6 +20,7 @@
 		851D30DF1D87FB3F00BEBFB7 /* Class1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Class1.h; path = Classes/Class1.h; sourceTree = "<group>"; };
 		851D30E01D87FB3F00BEBFB7 /* Class1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Class1.m; path = Classes/Class1.m; sourceTree = "<group>"; };
 		851D30E31D87FB8500BEBFB7 /* SwiftClass1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftClass1.swift; path = Classes/SwiftClass1.swift; sourceTree = "<group>"; };
+		851D310C1D87FDC100BEBFB7 /* CocoapodsTesting.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; path = CocoapodsTesting.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +37,7 @@
 		851D30CA1D87FA1100BEBFB7 = {
 			isa = PBXGroup;
 			children = (
+				851D310C1D87FDC100BEBFB7 /* CocoapodsTesting.podspec */,
 				851D30DF1D87FB3F00BEBFB7 /* Class1.h */,
 				851D30E01D87FB3F00BEBFB7 /* Class1.m */,
 				851D30E31D87FB8500BEBFB7 /* SwiftClass1.swift */,
